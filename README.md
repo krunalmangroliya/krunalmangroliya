@@ -4,8 +4,10 @@
 <br />
 
 Hi, I'm Krunal Mangroliya, a passionate self-taught Blockchain and Ethereum developer from India.
+
 🧑‍💻 𝐓𝐄𝐂𝐇𝐍𝐈𝐂𝐀𝐋 𝐄𝐗𝐏𝐄𝐑𝐓𝐈𝐒𝐄
 ︼︼︼︼︼︼︼︼︼︼︼︼︼︼︼︼
+
 🌐  Web App Development ➨ HTML5, AngularJS, NodeJS, ReactJS, ExpressJS, Bootstrap
 
 🖥️  Frontend ➨ JavaScript, Ajax, XHTML, AngularJs, ReactJs
@@ -28,8 +30,11 @@ Hi, I'm Krunal Mangroliya, a passionate self-taught Blockchain and Ethereum deve
 
 🎎  Other Experience ➨ Third Party API, SignalR, Social Media Integration, DAO, and DApps, FFMPEG 
 
+
 🧑‍💼 𝐒𝐄𝐑𝐕𝐈𝐂𝐄𝐒
+
 ︼︼︼︼︼︼︼︼
+
 🏦  Blockchain, Banking, Finance, Decentralized Exchange, and Forex Platform
 
  ₿ NFT (ERC-721, ERC-1155, Flow, BSC, Polygon, Rarible, Opensea, Nifty, etc)
@@ -52,7 +57,7 @@ Hi, I'm Krunal Mangroliya, a passionate self-taught Blockchain and Ethereum deve
 
 🌍  GPS Based App (Google Maps┇Geolocation┇Geo-fencing)
 
- ₿   Cryptocurrency Customised Platform (Decentralized and Centralized Exchange┇ Node - Masternode Setup┇Web Wallet┇Explorer ┇Compile Clients ┇Electrum Server)
+₿   Cryptocurrency Customised Platform (Decentralized and Centralized Exchange┇ Node - Masternode Setup┇Web Wallet┇Explorer ┇Compile Clients ┇Electrum Server)
 
 🎮  Gaming Platform (🎡 Wheel Spin┇🚰 Plumber┇💹 Graph┇ 👦🏻 Odd - 👧🏻 Even┇📈 High - 📉 Low┇🎲 Dice┇🎱 Power Ball┇💹 Real-time Price Bidding┇🃏 Scratch Card)
 
@@ -60,12 +65,19 @@ Hi, I'm Krunal Mangroliya, a passionate self-taught Blockchain and Ethereum deve
 
 
 🎖️ 𝐀𝐂𝐇𝐈𝐄𝐕𝐄𝐌𝐄𝐍𝐓𝐒 🎖️
+
 ︼︼︼︼︼︼︼︼︼︼︼︼︼
+
 👉 Certified Blockchain Architect™
+
 👉 Certified Ethereum Expert™
+
 👉 Certified Bitcoin Expert™
+
 👉 Certified Blockchain Expert™
+
 👉 Certified Smart Contract Developer™
+
 👉 Certified Solidity Developer™
 
 [All Certification](https://www.credential.net/profile/krunalmangroliya779607/wallet)
@@ -89,7 +101,7 @@ Hi, I'm Krunal Mangroliya, a passionate self-taught Blockchain and Ethereum deve
   <a href="https://www.facebook.com/RainInfotech/" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href = "mailto:kishansudani661@gmail.com">
+  <a href = "mailto:krunal@raininfotech.in">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/krunalmangroliya/?locale=en_US" target="_blank">
