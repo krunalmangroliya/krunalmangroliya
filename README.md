@@ -5,6 +5,7 @@
 
 Hi, I'm Krunal Mangroliya, a passionate self-taught Blockchain and Ethereum developer from India.
 
+
 🧑‍💻 𝐓𝐄𝐂𝐇𝐍𝐈𝐂𝐀𝐋 𝐄𝐗𝐏𝐄𝐑𝐓𝐈𝐒𝐄
 
 🌐  Web App Development ➨ HTML5, AngularJS, NodeJS, ReactJS, ExpressJS, Bootstrap
@@ -28,6 +29,7 @@ Hi, I'm Krunal Mangroliya, a passionate self-taught Blockchain and Ethereum deve
 💰  Payment Gateway ➨ Paypal, Skrill, PerfectMoney, Bitcoin, or Any Other Cryptocurrency
 
 🎎  Other Experience ➨ Third Party API, SignalR, Social Media Integration, DAO, and DApps, FFMPEG 
+
 
 
 🧑‍💼 𝐒𝐄𝐑𝐕𝐈𝐂𝐄𝐒
@@ -59,6 +61,7 @@ Hi, I'm Krunal Mangroliya, a passionate self-taught Blockchain and Ethereum deve
 🎮  Gaming Platform (🎡 Wheel Spin┇🚰 Plumber┇💹 Graph┇ 👦🏻 Odd - 👧🏻 Even┇📈 High - 📉 Low┇🎲 Dice┇🎱 Power Ball┇💹 Real-time Price Bidding┇🃏 Scratch Card)
 
 📝 Write to us to discuss your project. We offer a free consultation service and recommend technologies for your project upon ☎ Call or 💬 Invitation. 
+
 
 
 🎖️ 𝐀𝐂𝐇𝐈𝐄𝐕𝐄𝐌𝐄𝐍𝐓𝐒 🎖️
