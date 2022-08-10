@@ -6,7 +6,6 @@
 Hi, I'm Krunal Mangroliya, a passionate self-taught Blockchain and Ethereum developer from India.
 
 🧑‍💻 𝐓𝐄𝐂𝐇𝐍𝐈𝐂𝐀𝐋 𝐄𝐗𝐏𝐄𝐑𝐓𝐈𝐒𝐄
-︼︼︼︼︼︼︼︼︼︼︼︼︼︼︼︼
 
 🌐  Web App Development ➨ HTML5, AngularJS, NodeJS, ReactJS, ExpressJS, Bootstrap
 
@@ -32,8 +31,6 @@ Hi, I'm Krunal Mangroliya, a passionate self-taught Blockchain and Ethereum deve
 
 
 🧑‍💼 𝐒𝐄𝐑𝐕𝐈𝐂𝐄𝐒
-
-︼︼︼︼︼︼︼︼
 
 🏦  Blockchain, Banking, Finance, Decentralized Exchange, and Forex Platform
 
@@ -66,7 +63,6 @@ Hi, I'm Krunal Mangroliya, a passionate self-taught Blockchain and Ethereum deve
 
 🎖️ 𝐀𝐂𝐇𝐈𝐄𝐕𝐄𝐌𝐄𝐍𝐓𝐒 🎖️
 
-︼︼︼︼︼︼︼︼︼︼︼︼︼
 
 👉 Certified Blockchain Architect™
 
